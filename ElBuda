@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<main>
+<style>
+
+main {
+background-color: lightblue;
+justify-content: center;
+}
+
+header {
+font-weight: bold;
+font-size: 5em;
+text-align: center;
+}
+
+h1 {
+text-align: center;
+}
+
+figure {
+text-align: center;
+background-color: white;
+padding: auto;
+margin: auto;
+}
+
+figcaption {
+margin: 10px;
+}
+
+div {
+text-align: center;
+}
+
+ul {
+text-align: left;
+padding: auto;
+margin: auto;
+}
+
+ol {
+text-align: left;
+padding: auto;
+margin: auto;
+}
+
+.center {
+text-align: center;
+}
+
+.Rueda {
+height: 10em;
+width: auto;
+text-align: center;
+padding: auto;
+
+
+}
+
+</style> 
+<title> La vida del Buda </title>
+
+<header> Buda Gautama </header> 
+<h1> Shakyamuni </h1> 
+
+<figure> 
+<img src="Buda.jpeg" alt = "El Buda cumple Nirvana." > 
+<br>
+<figcaption>
+El Buda cumple Nirvana, después de quitarse los deseos. 
+</figcaption>
+</figure> 
+
+<p class = "center"> Siddartha Gautama, el Buda o el despertado, fue nacido en el norte de lo que es India hoy en día. Nació de una familia rica y poderosa del rango de reyes y guerreros de su sociedad. </p>
+<p class = "center">
+No obstante, un día el rey recibió noticias de que su hijo, en lugar de seguir los pasos de su padre, se volvería hacia lo espiritual. </p>
+<p class = "center">
+Para detener eso de pasar, el rey le encerró a Siddartha en el palacio por la mayoria de su vida. El rey determinó que Siddartha nunca debería ver el dolor o la muerte. Allí Siddartha tenía todo que quería, riqueza, comida, dinero, sirvientes, etc. Pero no se sintió bien por completo. </p>
+<p class = "center">
+Por eso salió del palacio un día y vio un hombre viejo, un hombre enfermo, un hombre muerto, y un hombre asceta. Después de esto Siddartha dedicó su vida a vencer el envejecimiento y la muerte. </p>
+<p class = "center">
+Continuaba muchos años su vida asceta. Un día se sentó debajo de un árbol para meditar y se dio cuenta de que todo es ilusión que se puede superar. Se dio cuenta de lo siguiente. </p>
+
+<div style = "font-weight:  bold";> Las cuatro verdades nobles </div> 
+<ul class = "center"> 
+<li> Dukkha </li>
+<li> Samudaya </li> 
+<li> Niroda </li> 
+<li> magga </li> 
+</ul>
+
+<div style = "font-weight: bold";> Noble camino óctuple </div> 
+<ol class = "center">
+<li> Comprensión correcta </li> 
+<li> Pensamiento correcto </li> 
+<li> Hablar correcto </li> 
+<li> Actuar correcto </li> 
+<li> Medio de vida correcto </li> 
+<li> Esfuerzo correcto </li> 
+<li> Consciencia del momento correcto </li> 
+<li> Meditación correcta </li> 
+
+</ol> 
+
+<p class = "center"> Para aprender más de las enseñanzas del Buda, haz clic <a href = "https://es.wikipedia.org/wiki/Buda_Gautama#Enlaces_externos_2"> aquí. </a></p>
+<p class = "center"> Haz clic <a href = "http://www.hastinapura.org.ar/editorial/textos/Dhammapada.pdf" > aquí </a> para recibir una copía gratis del Dhammapada, una confirmación y resumen de las practicas y creencias del budismo. </p>
+<div>
+<img src = "BudaRueda.jpeg" class="Rueda" alt = "Una imagen de la rueda que representa el camino óctuple.">
+<br>
+</div>
+<footer> </footer>
+</main>
